@@ -327,7 +327,7 @@ def accuracy_plot():
 # Uncomment the plotting function to see the visualization, 
 # Comment out the plotting function when submitting your notebook for grading
 
-#accuracy_plot() 
+accuracy_plot() 
 
 
 # In[ ]:
